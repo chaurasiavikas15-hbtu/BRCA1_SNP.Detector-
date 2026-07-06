@@ -19,13 +19,7 @@ A Python tool to detect Single Nucleotide Polymorphisms (SNPs) by comparing norm
 ## Screenshots
 
 ### 1. Tool Running - Detected 3 SNPs
-![Colab Output](IMG_20260706_20.jpg)
+![Colab Output](IMG_20260706_205206.jpg)
 
 ### 2. CSV Report Generated
 ![CSV Report](Picsart_26-07-06_23-16-12-847.jpg)
-
----
-
-## How to Run
-```bash
-python BRCA1_SNP_Detector.py
