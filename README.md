@@ -1,12 +1,20 @@
-# 🧬 BRCA1 SNP Detector
+# BRCA1 SNP DETECTOR 🧬
+
+Automated SNP Detection from DNA FASTA Files using Python
+
 ## Project Poster
 ![BRCA1 SNP Detector Poster](Picsart_26-07-06_23-14-57-748.jpg)
 
 ---
-## Project Poster
-![BRCA1 SNP Detector Poster](Picsart_26-07-06_23-14-57-748.jpg)
 
----
+## About
+A Python tool to detect Single Nucleotide Polymorphisms (SNPs) by comparing normal and mutant DNA sequences from FASTA files.
+
+## Key Features
+- ✅ Reads DNA from `.fasta` files 
+- ✅ Detects SNPs with position and base change
+- ✅ Exports results to `SNP_report.csv`
+- ✅ Works in Google Colab / Local Python
 
 ## Screenshots
 
@@ -18,9 +26,6 @@
 
 ---
 
----
-A Python tool to detect Single Nucleotide Polymorphisms (SNPs) by comparing normal and mutant DNA sequences from FASTA files.
-
-## 🚀 How to Run
+## How to Run
 ```bash
 python BRCA1_SNP_Detector.py
