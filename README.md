@@ -13,7 +13,7 @@ A Python tool to detect Single Nucleotide Polymorphisms (SNPs) by comparing norm
 ## Key Features
 - ✅ Reads DNA from `.fasta` files 
 - ✅ Detects SNPs with position and base change
-- ✅ Exports results to `SNP_report.csv`
+- ✅ Exports results to `SNP_report (1).csv`
 - ✅ Works in Google Colab / Local Python
 
 ## Screenshots
@@ -23,3 +23,9 @@ A Python tool to detect Single Nucleotide Polymorphisms (SNPs) by comparing norm
 
 ### 2. CSV Report Generated
 ![CSV Report](Picsart_26-07-06_23-16-12-847.jpg)
+
+---
+
+## How to Run
+```bash
+python BRCA1_SNP_Detector.py
