@@ -7,25 +7,12 @@ Automated SNP Detection from DNA FASTA Files using Python
 
 ---
 
-## About
-A Python tool to detect Single Nucleotide Polymorphisms (SNPs) by comparing normal and mutant DNA sequences from FASTA files.
-
-## Key Features
-- ✅ Reads DNA from `.fasta` files 
-- ✅ Detects SNPs with position and base change
-- ✅ Exports results to `SNP_report (1).csv`
-- ✅ Works in Google Colab / Local Python
-
 ## Screenshots
 
 ### 1. Tool Running - Detected 3 SNPs
 ![Colab Output](IMG_20260706_205206.jpg)
 
-### 2. CSV Report Generated
-![CSV Report](Picsart_26-07-06_23-16-12-847.jpg)
+### 2. CSV Report Generated  
+![CSV Report](Picsart_26-07-06_23-10-42-889.jpg)
 
 ---
-
-## How to Run
-```bash
-python BRCA1_SNP_Detector.py
