@@ -1,2 +1,7 @@
-# BRCA1_SNP.Detector-
-BRCA1 SNP Detector is a Python script that analyzes DNA sequences to find genetic mutations. It compares normal and mutant FASTA files, identifies SNP positions, and creates a CSV report. Useful for learning bioinformatics, genomics, and data analysis in biology.
+# 🧬 BRCA1 SNP Detector
+
+A Python tool to detect Single Nucleotide Polymorphisms (SNPs) by comparing normal and mutant DNA sequences from FASTA files.
+
+## 🚀 How to Run
+```bash
+python BRCA1_SNP_Detector.py
